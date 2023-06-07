@@ -1,2 +1,2 @@
 # MinimalML
-Minimal Implementation of Machine Learning Algorithms
+Minimal Implementations of Machine Learning Algorithms
